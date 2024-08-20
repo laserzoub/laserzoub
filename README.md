@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Mattéo im French 🇫🇷
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning Java,Angular,React
+- 🎓 I already know how to code in HTML,CSS,Javascript,Python,SQL,PHP
+- 📫 How to reach me : lasermat on discord
+- ⚡ Fun fact: I started coding at the age of 12
